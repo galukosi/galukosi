@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Andriy Tymchuk</h1>
-<h3 align="center">I am a starting programmer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galuxosi&label=Profile%20views&color=0e75b6&style=flat" alt="galuxosi" /> </p>
+<h3>About me</h3>
+I build small but complete systems, starting from sensors and firmware to backend logic and data visualization.
 
-<p align="left">
-</p>
+<h3>Focus:</h3>
+<ul>
+  <li>Embedded systems (ESP32, Arduino, C++)</li>
+  <li>Reliability and long-running behavior</li>
+  <li>Simple architectures, clear responsibility boundaries</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
+<h3>Selected work:</h3>
+<ul>
+  <li>EcoMonitor - Django website for displaying enviromental parameters, sent from Guardians.</li>
+  <li>Guardians(AKA ecomonitor-firmware) - Devices based on ESP32 for measuring environmental statistics(such as temperature, humidity) and sending it to EcoMonitor API.</li>
+  <li>AmongUsRealLife - Website for playing Among Us game in real life with your friends. Has tasks, roles, sabotages etc.</li>
+  <li>PasswordGenerator - Python script for generating passwords with Tkinter GUI. One of my first projects. Made when I was 12.</li>
+</ul>
