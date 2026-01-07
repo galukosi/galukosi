@@ -12,8 +12,7 @@ I build small but complete systems, starting from sensors and firmware to backen
 
 <h3>Selected work:</h3>
 <ul>
-  <li>EcoMonitor - Django website for displaying enviromental parameters, sent from Guardians.</li>
-  <li>Guardians(AKA ecomonitor-firmware) - Devices based on ESP32 for measuring environmental statistics(such as temperature, humidity) and sending it to EcoMonitor API.</li>
+  <li>The EcoMonitor Project - ESP & Django project for collecting enviromental parameters, such as CO, temperature and humidity.</li>
   <li>AmongUsRealLife - Website for playing Among Us game in real life with my friends. Has tasks, roles, sabotages etc.</li>
   <li>PasswordGenerator - Python script for generating passwords with Tkinter GUI. One of my first projects. Made when I was 12.</li>
 </ul>
