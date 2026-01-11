@@ -10,6 +10,11 @@ I build small but complete systems, starting from sensors and firmware to backen
   <li>Simple architectures, clear responsibility boundaries</li>
 </ul>
 
+<h3>Languages and tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,linux,arch,postgresql,vscode,clion" />
+</p>
+
 <h3>Selected work:</h3>
 <ul>
   <li>The EcoMonitor Project - ESP & Django project for collecting enviromental parameters, such as CO, temperature and humidity.</li>
