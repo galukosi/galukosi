@@ -6,8 +6,8 @@ I build small but complete systems, starting from sensors and firmware to backen
 <h3>Focus:</h3>
 <ul>
   <li>Embedded systems (ESP32, Arduino, C++)</li>
-  <li>Reliability and long-running behavior</li>
-  <li>Simple architectures, clear responsibility boundaries</li>
+  <li>Backend (Python & Django)</li>
+  <li>Databases (SQLite, PostgreSQL)</li>
 </ul>
 
 <h3>Languages and tools:</h3>
