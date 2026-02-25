@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andriy Tymchuk</h1>
+<h1 align="center">Hi 👋, I'm Galukosi</h1>
 
 <h3>About me</h3>
 I build small but complete systems, starting from sensors and firmware to backend logic and data visualization.
