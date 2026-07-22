@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Galukosi</h1>
 
 <h3>About me</h3>
-I build small but complete systems, starting from sensors and firmware to backend logic and data visualization.
+I build small but complete systems, starting from sensors and firmware to backend logic and data visualization. Currently I am focused on learning Machine Learning. 
 
 <h3>Focus:</h3>
 <ul>
-  <li>Embedded systems (ESP32, Arduino, C++)</li>
-  <li>Backend (Python & Django)</li>
-  <li>Databases (SQLite, PostgreSQL)</li>
+  <li>Applied ML & local LLM deployment (PyTorch, Ollama)</li>
+  <li>Linux system administration & infrastructure</li>
+  <li>Technical documentation & project architecture</li>
 </ul>
 
 <h3>Languages and tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,python,django,linux,arch,postgresql,vscode,clion" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux" />
 </p>
 
 <h3>Selected work:</h3>
