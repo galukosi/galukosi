@@ -12,7 +12,7 @@ I build small but complete systems, starting from sensors and firmware to backen
 
 <h3>Languages and tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,cpp,django" />
 </p>
 
 <h3>Selected work:</h3>
